@@ -51,9 +51,24 @@ We've included a scaffolded ASP.Net API as a starting point to shorten ramp-up t
 
 If you prefer a different language, the [Capsher Coding Challenge](https://github.com/Capsher-Coding-Challenge) GitHub account has previous scaffolded examples from historical contests.
 
+### Dependencies
+1. Your favorite editor and C# compiler
+    1. Ex: [VSCode](https://code.visualstudio.com/) with [C# extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+1. The [ASP.NET Core 3.1 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-3.1.22-windows-hosting-bundle-installer)
+
+### Setup
+1. Run `dotnet restore` to install the relevant packages
+1. Run `dotnet run` or use the IDE's launch tasks to run
+
+### Pieces to consider adding
+1. Authentication - Currently, there is none
+1. A web interface for a nicer user experience
+1. Persisted storage of state
+
+
 ## Helpful Links
 
-#### Tutorials and Articles
+### Tutorials and Articles
 * Git
   * [Intro](https://guides.github.com/activities/hello-world/#repository)
   * [Fix my Git](https://sethrobertson.github.io/GitFixUm/fixup.html)
