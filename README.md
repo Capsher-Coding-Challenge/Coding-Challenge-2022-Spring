@@ -2,7 +2,14 @@
 
 Welcome to Capsher Technology's Spring 2022 ACC Coding Challenge!
 
-Our challenge to you is to create a 3rd party integration manager. That's it! You get to decide what this integration will do and how you want to develop it. All that we ask is that you create something novel and useful.
+Our challenge to you is to create a recurring 3rd party integration manager. That's it! You get to decide what this integration will do and how you want to develop it. All that we ask is that you create something novel and useful.
+
+### Submission guidelines
+1. Please bear in mind that we will need to test this during judging. Provide enough setup information in your README that we can get it up and running in a few minutes.
+1. If you are thinking of ideas and wondering if it fits the challenge, check for the following:
+    1. Does it integrate with a 3rd party API?
+    1. Does it expose a management API and/or client?
+    1. Is it a recurring integration?
 
 ### Categories
 1. 1,2,3- Best overall (Useful, creative, documented, functioning)
